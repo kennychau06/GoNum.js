@@ -1,3 +1,3 @@
 # GoNum.js
 
-Reaching numbers in the realm of FGH<sub>Ɛ<sub>0</sub></sub>
+Reaching numbers in the realm of f<sub>E<sub>0</sub></sub> (FGH)
