@@ -1,2 +1,3 @@
 # GoNum.js
-Goal = reach ordinal strength of Epsilon in FGH
+
+Reaching numbers in the realm of FGH<sub>Ɛ<sub>0</sub></sub>
